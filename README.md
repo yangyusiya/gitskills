@@ -1,3 +1,8 @@
-# gitskills
+# git commands
 
-Creating a new branch is quick and simple.
+1.修改分支名 
+
+```
+git branch -m old_name new_name
+```
+
